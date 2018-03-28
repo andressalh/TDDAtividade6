@@ -1,0 +1,3 @@
+https://sonarcloud.io/dashboard?id=com.mycompany%3AAtividade6TDD
+
+https://travis-ci.org/andressalh/TDDAtividade6
